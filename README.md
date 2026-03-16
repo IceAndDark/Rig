@@ -1,2 +1,2 @@
 # Rig
-1241124
+Mining hardware setup
